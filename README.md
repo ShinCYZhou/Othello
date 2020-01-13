@@ -6,5 +6,7 @@ https://github.com/saideepg/GameOfOthello
 
 两个语言版本：
 1. python3.6
-2. typescript：运行方式——终端中输入`tsc index.ts & node index.js`；可能需要在项目路径中安装模块（npm i *），zip文件打包了所有项目文件，可能不需要安装模块。
+2. typescript：运行方式——终端中输入`tsc index.ts & node index.js`；可能需要在项目路径中安装模块（npm i *），zip文件打包了所有项目文件，可能不需要安装模块。没有使用高级的函数式编程。
+
+（课程pj，做的随便，随便看看）
 
